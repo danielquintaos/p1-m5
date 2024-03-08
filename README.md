@@ -6,7 +6,7 @@ daniel quintao davila
 # procedimento para executar o projeto 
 
 clonar o projeto
-`git clone https://github.com/danielquintaos/p1-mod5`
+`git clone https://github.com/danielquintaos/p1-m5`
 
 criar o ambiente virtual
 `python -m venv venv`
